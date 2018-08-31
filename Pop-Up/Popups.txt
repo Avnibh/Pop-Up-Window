@@ -1,0 +1,5 @@
+A popup window is a web browser window that is smaller than standard windows and without some of the standard features such as toolbars or status bars. For example, this link opens a medium-sized popup window. Popup windows (aka popups) are popular for small sidebar-style pages that are digressions from the main page.
+
+Popups are one of the trickiest effects in web development. More than one web developer has been reduced to tears trying to get popups to work correctly. Furthermore, some irresponsible popup techniques have made many web pages handicapped and search engine inaccessible.
+
+
